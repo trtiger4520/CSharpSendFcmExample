@@ -1,4 +1,4 @@
-﻿string token = "fcm-push-token=feqgGptKTmWHwpNaQ3tn5l:APA91bGUZsmugkPDfG0aBJ05UheTUEkoX8O9L1UDcD9N3lA6wWvWASc8ZXAW_lK4s4f4ltlcQWQGFA_ffLlMJCIRUiO6up91x6BOakXbgoID7Zg-FezBpzs8tBzlxxFox50f-SxpECck";
+﻿string token = "";
 var fcm = new FcmBase.FcmCore();
 
 Console.WriteLine("發送推播訊息...");
